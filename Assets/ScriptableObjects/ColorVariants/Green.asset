@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bfcf9f48584224a96519d81d279d2c, type: 3}
+  m_Name: Green
+  m_EditorClassIdentifier: 
+  colorEnum: 2
+  _products:
+  - _product: 0
+    _productPrefab: {fileID: 8376645292937236170, guid: 6a930e28299738f4492828fbcfef7d35,
+      type: 3}
+  - _product: 1
+    _productPrefab: {fileID: 1104654315230400512, guid: 71a4227b12efbcd4b87800b531d17fd3,
+      type: 3}
+  - _product: 2
+    _productPrefab: {fileID: -6688615437792048116, guid: ddb9050314c651a44b494a07eb5e6a9c,
+      type: 3}

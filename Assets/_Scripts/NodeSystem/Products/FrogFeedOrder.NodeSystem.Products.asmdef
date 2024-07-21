@@ -1,0 +1,17 @@
+{
+    "name": "FrogFeedOrder.NodeSystem.Products",
+    "rootNamespace": "FrogFeedOrder.NodeSystem.Products",
+    "references": [
+        "GUID:1816609567f90b84f8103d70a101fecb",
+        "GUID:a4f69800b7cef7643bca668b231b9ecc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

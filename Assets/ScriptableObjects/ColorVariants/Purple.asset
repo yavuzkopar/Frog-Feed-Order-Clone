@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bfcf9f48584224a96519d81d279d2c, type: 3}
+  m_Name: Purple
+  m_EditorClassIdentifier: 
+  colorEnum: 4
+  _products:
+  - _product: 0
+    _productPrefab: {fileID: 8376645292937236170, guid: ca96bf7566898fb4481e6055785fa135,
+      type: 3}
+  - _product: 1
+    _productPrefab: {fileID: 1104654315230400512, guid: fa824db46e8c9514ba70f6dded962103,
+      type: 3}
+  - _product: 2
+    _productPrefab: {fileID: -6688615437792048116, guid: 8967d8e3ed029cb4e85bda7ea91f12d6,
+      type: 3}
